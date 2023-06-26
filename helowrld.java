@@ -1,5 +1,5 @@
 public class helowrld {
     public void run(){
-        System.out.println("SALAMALEIKUM");
+        System.out.println("hellowrld");
     }
 }
